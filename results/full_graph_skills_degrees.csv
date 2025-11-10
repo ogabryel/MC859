@@ -1,0 +1,533 @@
+skill,jobs requiring skill
+sql,12783
+python,12267
+java,10891
+aws,10732
+ci/cd,9610
+azure,8656
+git,7905
+scrum,7528
+docker,6502
+javascript,6456
+react,5664
+kubernetes,5316
+kanban,5266
+power bi,5199
+gcp,4477
+agile,4250
+html,4204
+linux,4042
+css,4015
+postgresql,3984
+github,3836
+c,3720
+angular,3656
+typescript,3559
+oracle,3546
+go,3438
+nosql,3176
+mysql,3175
+.net,3135
+sap,3049
+jira,3033
+mongodb,3022
+c#,3007
+spring,2996
+kafka,2981
+sql server,2852
+node.js,2809
+jenkins,2669
+terraform,2620
+photoshop,2584
+gitlab,2234
+spring boot,2210
+illustrator,2151
+r,2146
+grafana,2138
+figma,2122
+spark,2113
+azure devops,2091
+salesforce,2082
+redis,2054
+rabbitmq,1986
+google cloud,1910
+facebook,1909
+tableau,1757
+shell,1565
+github actions,1497
+prometheus,1487
+php,1478
+canva,1438
+datadog,1302
+after effects,1299
+graphql,1273
+premiere,1266
+airflow,1230
+junit,1117
+kotlin,1112
+looker,1095
+google analytics,1086
+safe,1073
+tiktok,1062
+tdd,1033
+bash,998
+ansible,977
+cypress,965
+json,942
+ruby,917
+dynamodb,913
+hibernate,907
+vue.js,900
+ubuntu,900
+jest,892
+confluence,890
+c++,887
+selenium,881
+active directory,864
+postman,858
+serverless,852
+bigquery,840
+react native,838
+golang,835
+servicenow,833
+indesign,833
+maven,820
+restful api,820
+autocad,814
+trello,804
+bootstrap,799
+tensorflow,796
+asp.net,761
+api gateway,759
+django,747
+pytorch,745
+next.js,744
+zabbix,736
+nlp,728
+flutter,722
+owasp,720
+pandas,714
+xml,699
+scikit-learn,659
+totvs,658
+pl/sql,644
+langchain,629
+api rest,620
+elasticsearch,619
+google sheets,618
+snowflake,612
+bdd,606
+playwright,604
+fastapi,600
+dynatrace,596
+laravel,594
+swift,589
+redux,584
+vmware,564
+hadoop,542
+nestjs,530
+dbt,510
+notion,504
+windows server,503
+bitbucket,489
+flask,484
+wordpress,481
+gitflow,478
+new relic,476
+swagger,476
+siem,459
+vba,456
+entity framework,446
+centos,442
+abap,438
+sonarqube,438
+scala,437
+redshift,436
+unix,426
+miro,414
+debian,407
+openshift,406
+electron,406
+jquery,405
+cobit,405
+numpy,393
+protheus,386
+slack,381
+dax,374
+bpmn,372
+kibana,369
+splunk,359
+sketch,344
+aws lambda,338
+jmeter,336
+sas,336
+mlflow,333
+ips,328
+fortinet,325
+scada,323
+room,321
+blockchain,316
+helm,311
+blazor,305
+rust,300
+qlik,299
+clickup,296
+waf,294
+opentelemetry,290
+hugging face,283
+delphi,281
+unity,281
+adobe xd,278
+sass,275
+cucumber,274
+metabase,273
+webpack,272
+macos,266
+zoom,264
+grpc,259
+svn,258
+vault,257
+talend,254
+oracle cloud,254
+cassandra,252
+uml,250
+microsoft excel,249
+hive,246
+arm,242
+tailwind css,242
+quarkus,241
+jasmine,241
+cobol,241
+argocd,237
+asana,237
+elk stack,232
+ids,228
+azure functions,218
+apollo,209
+sentry,207
+ssis,205
+google tag manager,205
+nginx,197
+objective-c,195
+puppet,189
+pentaho,188
+openstack,186
+xunit,183
+circleci,183
+sast,179
+dart,178
+jetpack,177
+kinesis,175
+rxjs,175
+robot framework,174
+palo alto,163
+pytest,160
+dast,160
+chef,158
+parquet,155
+google docs,154
+vite,151
+storybook,148
+relay,145
+kubeflow,145
+scss,142
+vercel,142
+microsoft dynamics,142
+karma,137
+ocr,136
+ajax,136
+mocha,135
+swiftui,135
+keras,130
+microsoft teams,129
+nunit,126
+keycloak,126
+nexus,122
+google data studio,121
+cloudflare,119
+crowdstrike,118
+rancher,118
+elixir,117
+pinecone,117
+ldap,117
+unreal engine,113
+llamaindex,113
+nagios,110
+openid connect,110
+pulumi,108
+semrush,107
+matplotlib,106
+mariadb,106
+activemq,105
+teradata,104
+gherkin,103
+framer,102
+perl,102
+data mart,100
+prefect,100
+qgis,100
+matlab,97
+spring cloud,97
+android studio,96
+appdynamics,96
+symfony,95
+microsoft windows,94
+ray,94
+mqtt,92
+express.js,92
+okta,91
+oscp,91
+soapui,90
+monday.com,89
+clickhouse,89
+microsoft project,88
+checkpoint,86
+nomad,85
+adobe analytics,84
+android sdk,83
+istio,82
+xgboost,82
+vb.net,81
+snyk,81
+testng,81
+openai api,80
+core data,80
+proxmox,79
+superset,78
+firestore,77
+cka,77
+assembly,76
+sqlite,75
+uikit,75
+sap hana,75
+flink,73
+blender,73
+avro,73
+netsuite,72
+beam,72
+ionic,71
+risc-v,71
+trino,70
+material ui,70
+pfsense,70
+faiss,69
+wireshark,69
+logstash,69
+seaborn,68
+bitrise,68
+groovy,66
+svelte,66
+nessus,65
+babel,64
+figjam,63
+weaviate,63
+gatling,62
+edge computing,60
+airbyte,59
+jaeger,59
+chai,58
+opencv,58
+dagger,56
+burp suite,56
+bamboo,56
+qualys,55
+plotly,55
+spss,55
+virtualbox,55
+arduino,55
+celery,54
+fivetran,54
+artifactory,53
+datasul,52
+automl,51
+pulsar,51
+raspberry pi,51
+elastic stack,50
+heroku,50
+ckad,50
+knime,48
+fastify,47
+lxc,46
+kotlin multiplatform,46
+single sign-on sso,46
+mural,45
+networkx,45
+cocoapods,45
+ibm cloud,44
+codeigniter,44
+clojure,43
+metasploit,42
+nmap,40
+apache tomcat,39
+tenable,39
+micronaut,39
+sap erp,38
+cyberark,38
+dask,38
+nhibernate,38
+maya,37
+unittest,36
+crystal,36
+visual basic,36
+lua,36
+specflow,36
+locust,36
+prophet,35
+firebird,35
+ada,35
+meteor,34
+podman,33
+drupal,32
+vitest,32
+cognos,31
+hilt,31
+nuxt.js,31
+argo workflows,30
+travis ci,30
+karate,29
+statsmodels,29
+haystack,28
+grails,27
+hbase,26
+kedro,26
+invision,26
+julia,26
+spacy,26
+xamarin,25
+nltk,25
+primeng,24
+zeromq,24
+cuda,24
+lightgbm,23
+trivy,23
+polars,23
+solr,23
+couchbase,23
+fpga,23
+mllib,23
+luigi,23
+openvas,22
+codecommit,22
+phoenix framework,21
+lookml,21
+cloud foundry,21
+vagrant,21
+microsoft outlook,21
+milvus,20
+verilog,20
+zscaler,20
+chakra ui,20
+cypher,20
+solidity,19
+transact-sql,19
+orc,19
+bigtable,19
+haskell,19
+f#,19
+iptables,19
+red hat enterprise linux,19
+microstrategy,18
+gerrit,18
+peoplesoft,18
+feast,18
+perforce,18
+netlify,18
+graylog,18
+ios sdk,17
+kerberos,17
+zeplin,16
+fedora,16
+ros,16
+ocaml,15
+lumion,15
+chromadb,15
+materialize,15
+digitalocean,15
+cordova,15
+sap concur,14
+vanilla js,14
+couchdb,14
+adobe acrobat,14
+rollup,14
+microsoft visio,14
+vhdl,13
+domo,13
+unix shell,13
+duckdb,13
+ethereum,13
+framer motion,13
+shiny,13
+influxdb,13
+puppeteer,12
+three.js,12
+catboost,12
+openvpn,12
+sparql,12
+substance painter,11
+zbrush,11
+harbor,11
+saltstack,11
+tekton,10
+stata,10
+ethers.js,10
+webassembly,10
+autodesk revit,9
+gremlin,9
+erlang,9
+arangodb,8
+altair,8
+mdx,8
+microsoft sharepoint,8
+solidjs,8
+bing ads,8
+oracle e-business suite,7
+pascal,7
+weights & biases,7
+lisp,7
+thanos,7
+gensim,7
+openssl,7
+hardhat,7
+prolog,6
+microsoft access,6
+hyperledger,6
+zigbee,5
+content management systems cms,5
+opencl,5
+trpc,5
+microsoft visual studio,4
+akka,4
+pvsyst,4
+timescaledb,4
+hapi.js,4
+truffle,4
+etap,4
+botpress,4
+suricata,4
+tecton,4
+ibm websphere mq,3
+tkinter,3
+portainer,3
+cisco webex,3
+zuul,3
+godot,3
+koa.js,3
+ghidra,3
+fortran,3
+llvm,3
+microsoft edge,3
+lorawan,3
+smalltalk,2
+ggplot,2
+cockroachdb,2
+phaser,2
+dplyr,1
+microsoft team foundation server,1
+tibco spotfire,1
+google android,1
+microsoft powershell,1
+sisense,1
+pycaret,1
+moveit,1
+eclipse ide,1
+victoriametrics,1
