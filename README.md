@@ -7,3 +7,19 @@ Assim, o objetivo do projeto contido neste repositório é analisar quais são o
 O arquivo `job_skill_graph.gexf` representa a rede completa e os notebooks na raiz do repositório abrangem a coleta de dados, processamento dos dados originais, construção do grafo e análises. O arquivo `job_skill_graph_with_metrics.gexf` representa a rede completa, com atributos nos nós de conhecimentos técnicos representando as medidas de centralidade avaliadas.
 
 Para algumas análises, subgrafos foram construídos a partir da rede completa, e eles estão disponíveis na pasta `subgraphs`. As pastas `gephi_plots` e `images` contêm imagens de visualizações dos grafos na ferramenta Gephi e gráficos construídos a partir dos grafos, respectivamente. A pasta `results` contém os valores das métricas avaliadas.
+
+## Instalação de dependências
+
+O arquivo `requirements.txt` inclui as dependências para execução dos notebooks do projeto. Para criar um virtual environment e instalar as dependências:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+Caso queira sair do virtual environment:
+
+```bash
+deactivate
+```

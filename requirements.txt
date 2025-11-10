@@ -1,0 +1,8 @@
+numpy
+networkx
+pandas
+matplotlib
+beautifulsoup4
+requests
+rapidfuzz
+ipykernel
